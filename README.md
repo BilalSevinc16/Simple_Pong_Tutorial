@@ -1,16 +1,9 @@
-# simple_pong_tutorial
+# Simple Pong Tutorial
 
-A new Flutter project.
+Simple Pong Tutorial
 
-## Getting Started
+![2](https://github.com/BilalSevinc16/Simple_Pong_Tutorial/assets/146417248/14040127-a3e6-4615-bb70-087a276dac4f)
 
-This project is a starting point for a Flutter application.
+![3](https://github.com/BilalSevinc16/Simple_Pong_Tutorial/assets/146417248/8fb9d6c3-c29a-4522-8397-fc7cfebbb520)
 
-A few resources to get you started if this is your first Flutter project:
-
-- [Lab: Write your first Flutter app](https://docs.flutter.dev/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://docs.flutter.dev/cookbook)
-
-For help getting started with Flutter development, view the
-[online documentation](https://docs.flutter.dev/), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
+![1](https://github.com/BilalSevinc16/Simple_Pong_Tutorial/assets/146417248/94bb0141-4799-4cdf-8541-ee36f5a3048b)
